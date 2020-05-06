@@ -16,5 +16,5 @@
       [myindex,myvalue,myindex_score]=ChiMICShare(data,feat_num,ifclass,threshlod);
 
 ```
-chenyuan0510@126.com
+Contact me：chenyuan0510@126.com
 ```
