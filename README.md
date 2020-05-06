@@ -12,7 +12,7 @@
    > threshlod=0 or 0.01      
  
       num=randperm(size(data,1));  
-      data=data(num',:);# scramble the samples  
+      data=data(num',:);% scramble the samples  
       [myindex,myvalue,myindex_score]=ChiMICShare(data,feat_num,ifclass,threshlod);
 
 ```
