@@ -16,4 +16,3 @@ A novel feature selection method based on Chi-MIC and redundancy sharing
    # while Y is numerical data, ifclass=0; while Y is discrete data, ifcalss=1;
    # threshlod=0 or 0.01
  
-
