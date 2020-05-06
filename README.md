@@ -7,9 +7,7 @@
 ## 3) usage
 
    > num=randperm(size(data,1));
-
    > data=data(num',:);# scramble the samples
-
    > [myindex,myvalue,myindex_score]=ChiMICShare(data,feat_num,ifclass,threshlod)
 
     The first column of data is Y (dependent variable), the rest of the columns (X) independent variable;
