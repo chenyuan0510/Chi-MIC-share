@@ -15,7 +15,6 @@
       data=data(num',:);% scramble the samples  
       [myindex,myvalue,myindex_score]=ChiMICShare(data,feat_num,ifclass,threshlod);
 
-```
-Contact me：chenyuan0510@126.com
-```
+
 Li Yuting Dai Zhijun, Cao Dan,Luo Feng Luo, Chen Yuan*, Zheming Yuan*.[Chi-MIC-share: a new feature selection algorithm for quantitative structure-activity relationship models.](https://pubs.rsc.org/is/content/articlelanding/2020/ra/d0ra00061b#!divAbstract) RSC Advances, 2020, 10, RSC Advance., 2020, 10, 19852-19860.
+## Contact me：chenyuan0510@126.com
